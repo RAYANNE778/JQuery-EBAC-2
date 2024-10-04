@@ -1,4 +1,7 @@
-Exercício Módulo 10 
+### Exercício Módulo 10 - Plugins jQuery
 
-Oque foi feito
-.Criação de um formulario de vendas com o carousel funcionando em slides, formulário funcional e menu expansivo.
+## Dicas
+
+- O carousel slick utiliza a ID do campo para atribuir funções.
+- A semântica de escrita do HTML e jQuery utilizam o idioma inglês.
+- O jQuery plugin só executa depois que o jQuery carregar na página.
